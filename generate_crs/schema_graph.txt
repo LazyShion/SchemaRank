@@ -1,0 +1,7 @@
+A	Ps	0.2
+Ps	A	0.2
+Ps	Pd	0.7
+Ps	Y	0.1
+Y	Ps	0.3
+Y	C	0.3
+C	Y	0.3
